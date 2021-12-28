@@ -1,5 +1,5 @@
-key='e36bb985-e2f1-43fd-b85e-e4569be5d05b'
-app_name="accgen123"
+key='d2865259-1577-480d-85d0-05c4373e1820'
+app_name="accgen321"
 deviceid="17A7F633BD2668F5C58AC8FF2E0DDB52FE738274220CF20A44FBD5C421B24F47D483B642ED67AE381E"
 emaill="e8bf0gjt9@xojxe.com"
 passwordd="tempmail"
